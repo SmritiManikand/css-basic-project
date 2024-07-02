@@ -3,9 +3,6 @@
 
 
 
-
-
-
 ## home.html
 
 ![home](https://github.com/SmritiManikand/css-basic-project/assets/113674204/bab50d44-6c72-4fce-8e85-c61c4ca29093)
